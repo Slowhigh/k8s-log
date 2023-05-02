@@ -1,5 +1,4 @@
 # kind + WSL2 + Docker-Desktop
-***reference: https://kubernetes.io/blog/2020/05/21/wsl-docker-kubernetes-on-the-windows-desktop/ ***
 
 #### Prerequisites
 - Docker used the WSL2 based engin.
