@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>K8S STUDY</b>
+  <b>K8S LOG</b>
 </h1>
 
 - [Concepts](Concepts)
