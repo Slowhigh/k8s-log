@@ -1,0 +1,23 @@
+volumePermissions:
+  enabled: true
+
+listeners:
+  client:
+    protocol: PLAINTEXT
+
+controller:
+  resources:
+    requests:
+      cpu: 100m
+    limits:
+      cpu: 200m
+
+externalAccess:
+  enabled: true
+  controller:
+    service:
+      type: NodePort
+      nodePorts:
+        - 30921
+        - 30922
+        - 30923
